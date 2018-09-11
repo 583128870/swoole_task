@@ -1,0 +1,21 @@
+{
+    "name": "qh/swoole",
+    "description": "1",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qh",
+            "email": "583128870@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Qh\\Task\\": "./src/qh/task"
+        }
+    }
+}

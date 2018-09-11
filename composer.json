@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Qh\\Task\\": "./src/qh/task"
+            "Qinhui\\Task\\": "./src/qinhui/task"
         }
     }
 }

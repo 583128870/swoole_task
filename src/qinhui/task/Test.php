@@ -1,5 +1,5 @@
 <?php
-namespace Qh\Task;
+namespace Qinhui\Task;
 class Test{
     public function index(){
 

@@ -2,7 +2,7 @@
 namespace Qinhui\Task;
 class Test{
     public function index(){
-
+		echo 1;
     }
 }
 /**
